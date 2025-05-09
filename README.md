@@ -1,6 +1,5 @@
 # Accenture-North-America-Data-Analytics-and-Visualization
 
-# Accenture-North-America-Data-Analytics-and-Visualization
 Accenture North America Data Analytics and Visualization
 Project: Accenture North America Data Analytics and Visualization
 Client : Social Buzz
